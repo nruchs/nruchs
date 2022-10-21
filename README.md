@@ -1,9 +1,12 @@
 ## Hi there 👋 Welcome to my GitHub profile!
-### I'm Natalia - AKA Natty
+My name is Natalia, I'm 23 years old, I'm a Software Engineering student and I work as a Developer, focusing on B2C Salesforce Commerce Cloud.
+
 
 <div>
 <a href="https://www.linkedin.com/in/natalia-ruchs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![](https://visitor-badge.glitch.me/badge?page_id=nruchs.nruchs)
 
 
 ### aboutMe.js
@@ -13,7 +16,7 @@ const natalia = {
     pronouns: "she" | "her",
     age: 23,
     code: [Javascript, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "games", "music", "cats"],
+    askMeAbout: ["tech", "games", "cats", "music", "memes"],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "sass"]
@@ -25,7 +28,6 @@ const natalia = {
 };
 ```
 
-![](https://visitor-badge.glitch.me/badge?page_id=nruchs.nruchs)
 <details>
   <summary>?</summary>
                                                                                 
