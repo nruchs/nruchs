@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to my GitHub profile!
-My name is Natalia, I'm 23 years old, I'm a Software Engineering student and I work as a Developer, focusing on B2C Salesforce Commerce Cloud.
+My name is Natalia, I'm 24 years old, I'm a Software Engineering student and I work as a Developer, focusing on B2C Salesforce Commerce Cloud.
 
 
 <div>
@@ -8,25 +8,6 @@ My name is Natalia, I'm 23 years old, I'm a Software Engineering student and I w
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nruchs.nruchs)
 
-
-### aboutMe.js
-
-```javascript
-const natalia = {
-    pronouns: "she" | "her",
-    age: 23,
-    code: [Javascript, HTML, CSS],
-    askMeAbout: ["tech", "games", "cats", "music", "memes"],
-    technologies: {
-        frontEnd: {
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: {
-            js: ["mysql", "node"]
-        }        
-    }
-};
-```
 
 <details>
   <summary>?</summary>
