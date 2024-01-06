@@ -1,13 +1,4 @@
 ## Hi there 👋 Welcome to my GitHub profile!
-My name is Natalia, I'm 24 years old, I'm a Software Engineering student and I work as a Developer, focusing on B2C Salesforce Commerce Cloud.
-
-
-<div>
-<a href="https://www.linkedin.com/in/natalia-ruchs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-![](https://visitor-badge.glitch.me/badge?page_id=nruchs.nruchs)
-
 
 <details>
   <summary>?</summary>
